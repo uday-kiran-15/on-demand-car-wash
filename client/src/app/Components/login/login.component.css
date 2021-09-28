@@ -1,0 +1,39 @@
+.loginForm{
+    width: 40%;
+    margin: auto;
+    margin-top:40px;
+    margin-bottom: 40px;;
+    padding: 40px;
+    background-color: rgba(141, 3, 3, 0.178);
+  
+  }
+  
+  #heading{
+      font-family: 'Montserrat', sans-serif;
+      font-size: 40px;
+      text-align: center;
+      padding: 20px;
+      display: block;
+      margin: auto;
+  }
+  
+  #icon{
+    text-align: center;
+  }
+  
+  #userIcon{
+    font-size: 5em;
+    color: rgb(48, 40, 40);
+    padding: 20px;
+  }
+  .btn:hover {background-color: #3d9640}
+
+  .btn:active {
+    background-color: #3c8fbe;
+    box-shadow: 0 5px rgb(56, 52, 52);
+    transform: translateY(4px);
+  }
+  .form-contro:hover{
+    background-color: lightgreen;
+  }
+ 
